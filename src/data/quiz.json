@@ -1,0 +1,29 @@
+{
+    "data": [
+      {
+        "question": "React.js in MVC is ?",
+        "choices": ["Model", "Middleware", "Controller", "Method"],
+        "answer": "Controller"
+      },
+      {
+        "question": "Which of the following JavaScript cannot do ?",
+        "choices": ["JavaScript can react to events", "JavaScript can manipulate HTML elements", "JavaScript can be used to validate data", "All of the Above"],
+        "answer": "All of the Above"
+      },
+      {
+        "question": "Which object is used to create a form ?",
+        "choices": ["Tables and Queries", "Tables only", "Tables and reports", "Queries and reports"],
+        "answer": "Tables and Queries"
+      },
+      {
+        "question": "What is the purpose of indexing ?",
+        "choices": ["To reduce table size", "To speedup data search", "Both A and B", "None of the above"],
+        "answer": "To speedup data search"
+      },
+      {
+        "question": "Number of virtual DOM in Reactat a time ?",
+        "choices": ["One", "Two", "Three", "Multiple"],
+        "answer": "Two"
+      }
+    ]
+  }
