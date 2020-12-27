@@ -21,7 +21,7 @@
         "answer": "To speedup data search"
       },
       {
-        "question": "Number of virtual DOM in Reactat a time ?",
+        "question": "Number of virtual DOM in React at a time ?",
         "choices": ["One", "Two", "Three", "Multiple"],
         "answer": "Two"
       }
